@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # duo-admin
 
 ## Project setup
